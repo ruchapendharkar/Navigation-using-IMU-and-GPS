@@ -1,0 +1,9 @@
+<launch>
+
+<arg name="port" default = "/dev/pts/1"/>
+
+<node pkg="LAB4" name = "imudriver" type = "imu_driver.py" args ="$(arg port1)"/>
+
+<node pkg="LAB4" name = "gpsdriver" type = "gps_driver.py" args ="$(arg port2)"/>
+
+</launch>
