@@ -1,6 +1,6 @@
 # IMU and GPS Data Processing and Analysis
 
-This MATLAB script performs data processing and analysis on Inertial Measurement Unit (IMU) and GPS data collected during driving. The script includes three main parts:
+This project involved performing data processing and analysis on Inertial Measurement Unit (IMU) and GPS data collected during driving. The script includes three main parts:
 
 ## Part 1: Magnetometer Calibration and Yaw Analysis
 
